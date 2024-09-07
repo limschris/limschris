@@ -1,9 +1,8 @@
-Bem vido ao meu perfil.
+Bem vindo ao meu perfil.
 
-Meu nome é Ayumi
-- Estou estudando na Alura e sou estudante do segundo ano do ensino médio.
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos! :)
+- . por favor use pronome masculino comigo(:
+- . estudante do 2° ano do ensino médio | aprofundando meus conhecimentos básicos de javascript, html e css junto do Alura
+- . utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos! 🧍‍♂️
 
 <!--
 **limschris/limschris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
