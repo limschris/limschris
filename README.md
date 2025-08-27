@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil.
 
-- . por favor use pronome masculino comigo(:
+- . 
 - . estudante do 2° ano do ensino médio | aprofundando meus conhecimentos básicos de javascript, html e css junto do Alura
 - . utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos! 🧍‍♂️
 
